@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;600;700&display=swap');
+*{
+  font-family: inherit;
+}
 body {
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", Arial,
-    sans-serif;
+font-family: 'Asap', sans-serif;
   background-image: url("img.jpg");
   background-size: cover;
   font-weight: bold;
